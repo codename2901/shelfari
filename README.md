@@ -1,7 +1,7 @@
 Shelfari 1.0
 -----------------------
 
-app link : codename2901.pythonanywhere.com
+[Go to the App] (http://codename2901.pythonanywhere.com)
 
 This is an example application using Django, with the help of [django-tastypie](https://github.com/toastdriven/django-tastypie), and [backbone.js](https://github.com/documentcloud/backbone). Its a 
 simple CRUD application to Add/Read/Update/Delete a resource ( Book in this case).
